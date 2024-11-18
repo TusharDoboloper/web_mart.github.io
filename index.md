@@ -7,3 +7,5 @@ __Age__ : 20 <br>
 | __Institution Name __ | __Year__ | __Course__ |
 |--------------|-------------|-----------------------------|
 | MNIT Jaipur | 2023 | Btech in computer Science and Engineering |
+<br>
+[logo](photo.png)

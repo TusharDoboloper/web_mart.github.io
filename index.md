@@ -5,6 +5,5 @@ __Id__ : 2023ucp1977 <br>
 __Age__ : 20 <br>
 #### Education :
 | __Institution Name __ | __Year__ | __Course__ |
-|-----------|------------|---------|-----------|
+|--------------|-------------|-----------------------------|
 | MNIT Jaipur | 2023 | Btech in computer Science and Engineering |
-|---------|---------|--------|

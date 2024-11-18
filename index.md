@@ -9,3 +9,4 @@ __Age__ : 20 <br>
 | MNIT Jaipur | 2023 | Btech in computer Science and Engineering |
 <br>
 [logo](https://myoctocat.com/assets/images/base-octocat.svg)
+#### _Social 
